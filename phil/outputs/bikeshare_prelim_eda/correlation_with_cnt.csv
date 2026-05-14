@@ -1,0 +1,14 @@
+,cnt
+cnt,1.0
+high_demand_flag,0.759
+temp,0.405
+atemp,0.401
+hr,0.394
+yr,0.25
+mnth,0.121
+windspeed,0.093
+workingday,0.03
+weekday,0.027
+holiday,-0.031
+weathersit,-0.142
+hum,-0.323

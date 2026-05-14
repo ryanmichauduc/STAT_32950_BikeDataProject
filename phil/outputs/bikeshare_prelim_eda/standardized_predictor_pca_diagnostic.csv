@@ -1,0 +1,6 @@
+PC,explained_variance_ratio,corr_with_cnt,top_loading_terms
+1,0.06625301798583866,0.35889812460896975,temp (+0.47); atemp (+0.46); season_3 (+0.37); season_1 (-0.33); mnth_7 (+0.22); mnth_1 (-0.21); mnth_8 (+0.20); mnth_2 (-0.17)
+2,0.052081644103184686,-0.05648308882167618,workingday_0 (-0.54); workingday_1 (+0.54); weekday_0 (-0.31); weekday_6 (-0.31); holiday_1 (-0.20); holiday_0 (+0.20); weekday_3 (+0.16); weekday_2 (+0.15)
+3,0.040626393665586506,-0.11467527134438958,season_4 (+0.47); hum (+0.36); season_1 (-0.30); mnth_10 (+0.28); weathersit_1 (-0.26); mnth_11 (+0.24); windspeed (-0.21); weathersit_2 (+0.21)
+4,0.03780837105718205,0.04366973619492093,season_2 (-0.58); mnth_5 (-0.36); mnth_4 (-0.33); season_3 (+0.31); season_1 (+0.22); mnth_7 (+0.20); weathersit_1 (+0.20); mnth_8 (+0.18)
+5,0.03534221136521006,0.1001390979079422,holiday_1 (+0.58); holiday_0 (-0.58); weekday_1 (+0.36); weekday_6 (-0.21); weekday_0 (-0.20); yr_1 (+0.11); yr_0 (-0.11); workingday_1 (+0.10)
